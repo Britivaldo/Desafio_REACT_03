@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #95a5a6;
+    background-color: #95a5a6;
+}
+
+.card{
+	display: flex;
+    width: 100vw;
+    height: 600px;
+	justify-content: center;
+	flex-direction: column;
+}
